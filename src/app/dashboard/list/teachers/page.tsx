@@ -30,7 +30,7 @@ const TeacherListPage = ()=>{
             <Pagination/>
         </div>
         
-    
+
     )
 }
 
